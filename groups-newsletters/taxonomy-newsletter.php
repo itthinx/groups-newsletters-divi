@@ -1,10 +1,9 @@
 <?php
 /**
  * taxonomy-newsletter.php
- * 
+ *
  * This is the adjusted template for Newsletters (newsletter taxonomy) for the
  * Divi theme.
- * 
  *
  * @author itthinx
  */

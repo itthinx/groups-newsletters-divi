@@ -4,7 +4,6 @@
  *
  * This is the adjusted template for Stories (story custom post type) for
  * the Divi theme.
- * 
  *
  * @author itthinx
  */
