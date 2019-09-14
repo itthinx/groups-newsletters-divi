@@ -13,3 +13,9 @@ h1.newsletter-title {
 	margin-bottom: 1.62em;
 	border-bottom: 1px solid #ccc;
 }
+
+article.story .et_post_meta_wrapper:last-child {
+	margin-top: 1em;
+	padding-top: 0.62em;
+	border-top: 1px solid #ccc;
+}
