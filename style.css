@@ -9,3 +9,7 @@
  * Version:     1.0.0
  */
 
+h1.newsletter-title {
+	margin-bottom: 1.62em;
+	border-bottom: 1px solid #ccc;
+}
